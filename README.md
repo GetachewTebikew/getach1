@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @getach1
-- 👀 I’m interested in AI and MAachine Learning, Fullstack
+- 👋 Hi, I’m Getachew Tebikew
+- 👀 I’m interested in AI, Machine Learning, and Fullstack development
 - 🌱 I’m currently learning Software Engineering at AAiT
 - 💞️ I’m looking to collaborate on Fullstack projects
 - 📫 How to reach me 
