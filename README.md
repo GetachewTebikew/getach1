@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Getachew Tebikew
-- 👀 Fullstack development
+- 👀 Intersted in Fullstack development
 - 🌱 I’m currently learning Software Engineering at AAiT
 - 💞️ I’m looking to collaborate on Fullstack projects
 - 📫 How to reach me 
