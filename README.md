@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Fullstack projects
 - 📫 How to reach me 
       - 📫 How to reach me phone: +251931903909
-      - 📫 How to reach me Email: getachewtbkw@gmsil.com
+      - 📫 How to reach me Email: getachewtbkw@gmail.com
       - 📫 How to reach me telegram: @getishT
 
 <!---
