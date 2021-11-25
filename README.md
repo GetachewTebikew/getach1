@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning Software Engineering at AAiT
 - 💞️ I’m looking to collaborate on Fullstack projects
 - 📫 How to reach me 
-      - 📫 How to reach me phone: +251931903909
-      - 📫 How to reach me Email: getachewtbkw@gmail.com
-      - 📫 How to reach me telegram: @getishT
+      - Phone: +251931903909
+      - Email: getachewtbkw@gmail.com
+      - telegram: @getishT
 
 <!---
 getach1/getach1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
