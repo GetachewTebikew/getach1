@@ -1,1 +1,61 @@
-<mxfile host="app.diagrams.net" modified="2021-12-22T21:37:09.724Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="lJYI5br4RYusMhDBoCdb" version="16.0.3" type="github"><diagram id="VQBJ52Cbb508mhS4Gt7y" name="Page-1">5ZZdb5swFIZ/DZeVABOaXHZp111kVdVM6m5dOIA1m4OMKaS/fqaYrzjVOqlk03aD7NfHX895se2QrWhuJS2yrxgDd3w3bhxy7fj+5SbU31Y4dEKwWXVCKlncSd4o7NkLGNE1asViKGeBCpErVszFCPMcIjXTqJRYz8MS5PNZC5qCJewjym31kcUq69T1yh31L8DSrJ/Zc02LoH2wEcqMxlhPJHLjkK1EVF1JNFvgLbueS9fv8xutw8Ik5Oo9HQgmDyS5T74J//ud+LHLdrerCzPKM+WV2fBVpFCaFatDj0EvvmiLleBdAPn0DFIxDWpHn4DfY8kUw1yHPKFSKCYBV5ylbYPCQquZElxXPF3ESnGWw3ZInatFsyDdF5o3d+oN/LTvAAUoedAhpgMxxI3lhgzUYwL7kGySu9Bo1FgmHQYeqeqCAfsbkP1/EXK4nlP21n+YcmBRtgDXGVOwL2jU1mt9Xs1R0bLoECWsgfhjMHlHZjxBKQhPYAoW4xRanB5B1/c0AQuYxCqPWxSvrvkFvg+gdfzrBjatwWdTWmQpWJcWrB2mLLdA6aH0jQRngUSCoz/vxPk2aDNPLUVpbVGSkLJSgX3GnRWUd3QRrN4JajE7bf6Hm4CcwHzWm6BP+1/vx81yftTV8Wn52jZ5n5Obnw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-22T21:45:41.486Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="_RhcBGPlweAOa7FHvRlP" version="16.0.3" type="github">
+  <diagram id="VQBJ52Cbb508mhS4Gt7y" name="Page-1">
+    <mxGraphModel dx="796" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3ofR3fPfTm2XNmkLhLG5-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="30" y="220" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3ofR3fPfTm2XNmkLhLG5-2" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="680" y="180" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3ofR3fPfTm2XNmkLhLG5-4" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="120" y="75" width="460" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="3ofR3fPfTm2XNmkLhLG5-6" value="We Safe" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="40" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3ofR3fPfTm2XNmkLhLG5-7" value="Login" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3ofR3fPfTm2XNmkLhLG5-8" value="register" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="270" y="190" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3ofR3fPfTm2XNmkLhLG5-9" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="680" y="350" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3ofR3fPfTm2XNmkLhLG5-10" value="report with evidence" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="290" y="270" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W4rk2TajlGFxyorMyBDT-1" value="Live stream" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="310" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W4rk2TajlGFxyorMyBDT-2" value="reset password" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="230" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W4rk2TajlGFxyorMyBDT-3" value="see news feed" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="360" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W4rk2TajlGFxyorMyBDT-4" value="See report history" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="400" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W4rk2TajlGFxyorMyBDT-7" value="delete histoy" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="400" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W4rk2TajlGFxyorMyBDT-8" value="See wanted criminals" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="450" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W4rk2TajlGFxyorMyBDT-9" value="see news feed detail" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="340" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W4rk2TajlGFxyorMyBDT-10" value="match image" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="440" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W4rk2TajlGFxyorMyBDT-11" value="capture image" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="480" width="120" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
