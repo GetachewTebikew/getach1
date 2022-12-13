@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Getachew Tebikew
-- 👀 Intersted in Fullstack development
-- 🌱 I’m currently learning Software Engineering at AAiT
-- 💞️ I’m looking to collaborate on Fullstack projects
-- 📫 How to reach me 
+- 👋 Getachew Tebikew
+- 👀 Intersted in CyberOps
+- 🌱 Studied Software Engineering at AAiT
+- 📫 How to reach
       - Phone: +251931903909
       - Email: getachewtbkw@gmail.com
       - telegram: @getishT
